@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7F39AB61-45B4-5E87-F819-01970AAD81D1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Framework",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
